@@ -2,7 +2,6 @@
 <code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 Current [project](PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, Python, C#</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@Alvenzer](https://t.me/Alvenzer)</code>
